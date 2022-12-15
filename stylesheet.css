@@ -1,0 +1,74 @@
+.wrapper{
+    margin: auto;
+    max-width: 1500px;
+}
+
+
+body{
+    background: linear-gradient(
+        to bottom,
+        white 0%,
+        white 60%,
+        #CDF9FF 60%,
+        #CDF9FF 80%,
+        white 80%,
+        white 100%
+
+    );
+    padding-left: 150px;
+    height: 2027px;
+    width: 1440px;
+    margin: auto;
+}
+
+.hero{
+    background: linear-gradient(
+        to right,
+        white 0%,
+        white 44%,
+        #46CCDE 44%,
+        #46CCDE 100%
+    );
+
+    width: 1290px;
+    height: 900px;
+}
+
+.navbar{
+    width: 1140px;
+    height: 63px;
+}
+
+.navright{
+    float: right;
+}
+
+.lefthero{
+    width: 511px;
+    height: 420px;
+    word-wrap: normal;
+}
+
+.righthero{
+    position: absolute;
+    top: 175px;
+    right: 615px;
+}
+
+.righthero img{
+    width: 601px;
+    height: 595px;
+}
+
+.social{
+    width: 1140px;
+    height: 170px;
+    margin: 80px 150px 80px 0px;
+}
+
+.features{
+
+    width: 1440px;
+    height: 446px;
+    
+}
